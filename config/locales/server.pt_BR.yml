@@ -1,0 +1,13 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+pt_BR:
+  site_settings:
+    algolia_enabled: "Ative o plugin discourse-algolia e envie dados ao Algolia para indexação"
+    algolia_autocomplete_enabled: "Ative o autopreenchimento do Algolia no cabeçalho do site"
+    algolia_application_id: "A ID do app Algolia para o qual os dados devem ser enviados para indexação"
+    algolia_admin_api_key: "A chave de API com permissões para gravar dados e configurar índices"
+    algolia_search_api_key: "Uma chave de API do Algolia com permissão de <b>pesquisa</b>, usada para o front-end<br /><i>Ao ativar Respostas, é preciso ter a permissão </i><b>nluReadAnswers</b><i> também"

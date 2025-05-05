@@ -1,0 +1,16 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+pt_BR:
+  js:
+    discourse_algolia:
+      search_box_placeholder: "Pesquisar no fórum..."
+      advanced_search: "pesquisa avançada"
+      powered_by: "Da plataforma do plugin de pesquisa discourse-algolia"
+      user_likes: "Quantidade de curtidas recebidas pelo(a) usuário(a)"
+      topic_tags: "Quantidade de tópicos com esta etiqueta"
+      topic_views: "Quantidade de vezes que este tópico foi visualizado"
+      no_posts: "Nenhuma postagem correspondente."

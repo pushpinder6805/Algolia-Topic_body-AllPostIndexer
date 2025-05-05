@@ -1,0 +1,13 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+tr_TR:
+  site_settings:
+    algolia_enabled: "discourse-algolia eklentisini etkinleştirin ve indeksleme için Algolia'ya veri gönderin"
+    algolia_autocomplete_enabled: "Site üst bilgisinde Algolia otomatik tamamlamayı etkinleştirin"
+    algolia_application_id: "İndeksleme için verilerin gönderilmesi gereken Algolia uygulama kimliği"
+    algolia_admin_api_key: "Veri yazma ve endeksleri yapılandırma izinlerine sahip bir Algolia API anahtarı"
+    algolia_search_api_key: "Ön uç için kullanılan <b>ara</b> iznine sahip bir Algolia API anahtarı<br /><i> Yanıtlar etkinleştirildiğinde, </i><b>nluReadAnswers</b><i> iznine de ihtiyaç duyar</i>"

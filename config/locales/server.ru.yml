@@ -1,0 +1,13 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+ru:
+  site_settings:
+    algolia_enabled: "Включить плагин «discourse-algolia» и отправить в Algolia данные для индексации"
+    algolia_autocomplete_enabled: "Включить автозаполнение в заголовке сайта"
+    algolia_application_id: "Идентификатор Algolia, куда следует отправлять данные для индексации"
+    algolia_admin_api_key: "Ключ API Algolia с разрешениями на запись данных и настройку индексов"
+    algolia_search_api_key: "Ключ API Algolia с разрешением на <b>поиск</b>, используется для фронтенда<br /><i>Когда используются Algolia Answers, также требуется разрешение </i><b>nluReadAnswers</b>"

@@ -1,0 +1,16 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+ru:
+  js:
+    discourse_algolia:
+      search_box_placeholder: "Поиск на форуме..."
+      advanced_search: "Расширенный поиск"
+      powered_by: "Работает с использованием поиска «discourse-algolia»"
+      user_likes: "Количество лайков, полученных пользователем"
+      topic_tags: "Количество тем с этим тегом"
+      topic_views: "Количество просмотров темы"
+      no_posts: "Нет подходящих записей."
