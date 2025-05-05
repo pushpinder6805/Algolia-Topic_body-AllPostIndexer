@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-# name: discourse-algolia
+# name: Algolia-Topic_body-AllPostIndexer
 # about: Integrates Algolia with Discourse search.
 # meta_topic_id: 73517
 # version: 0.4.1
